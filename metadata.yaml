@@ -1,0 +1,31 @@
+_repo: Wounded-and-a-Prisoner-of-WarBy-an-Exchanged-Officer_45931
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45931-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hay, Malcolm V. (Malcolm Vivian)
+    aliases:
+    - Hay, M. V. (Malcolm Vivian)
+    - Hay, Malcolm V. (Malcolm Vivian)
+    birthdate: 1881
+    deathdate: 1962
+    gutenberg_agent_id: '43528'
+    url: http://www.gutenberg.org/2009/agents/43528
+description: ''
+gutenberg_issued: '2014-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Hospitals'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, German'
+title: Wounded and a Prisoner of War, by an Exchanged Officer
+url: http://www.gutenberg.org/ebooks/45931
